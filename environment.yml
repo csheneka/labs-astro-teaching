@@ -1,0 +1,11 @@
+name: lab-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scipy
+  - astroquery
+  - astropy
