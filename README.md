@@ -1,5 +1,5 @@
 ## Notebooks and snippets for astro-coding labs 
-### Note book currently in German, for advanced high-schoolers and undergraduates
+### Notebook currently in German, for advanced high-schoolers and undergraduates
 ### Set-up suitable as well to be run interactively with Binder by students (https://mybinder.org/)
 
 ### This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
