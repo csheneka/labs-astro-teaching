@@ -5,7 +5,7 @@ Notebook currently in German, for advanced high-schoolers and undergraduates
 Set-up suitable as well to be run interactively with Binder by students (https://mybinder.org/)
 Binder link:
 
-<a target="_blank" rel="noopener noreferrer" href="https://hub.ovh2.mybinder.org/user/csheneka-labs-astro-teaching-m4lweyrg/lab/tree/SDSS_BOSS_Expansion_Universum_Student.ipynb"><img src="https://mybinder.org/static/logo.svg?v=fe52c40adc6…9915d6dbf369ae68fb855a40dd05489a7b9542a9ee532e92b" alt="drawing" width="150"/> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://hub.ovh2.mybinder.org/user/csheneka-labs-astro-teaching-m4lweyrg/lab/tree/SDSS_BOSS_Expansion_Universum_Student.ipynb"><img src="https://mybinder.org/static/logo.svg" alt="drawing" width="150"/> </a>
 
 Google colab link:
 
