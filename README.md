@@ -6,7 +6,7 @@ Set-up suitable as well to be run interactively with Binder by students
 <br>
 Binder link:
 
-<a target="_blank" rel="noopener noreferrer" href="https://mybinder.org/v2/gh/csheneka/labs-astro-teaching/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fcsheneka%2Flabs-astro-teaching%2Fblob%2Fmain%2FSDSS_BOSS_Expansion_Universum_Student.ipynb"><img src="https://mybinder.org/static/logo.svg" alt="drawing" width="150"/> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://mybinder.org/v2/gh/csheneka/labs-astro-teaching/HEAD"><img src="https://mybinder.org/static/logo.svg" alt="drawing" width="150"/> </a>
 
 Google colab link:
 
