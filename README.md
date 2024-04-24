@@ -10,7 +10,7 @@ Binder link:
 
 Google colab link:
 
-<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/csheneka/labs-astro-teaching/blob/main/SDSS_BOSS_Expansion_Universum_Student.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="150"/> </a>
+<a target="_blank" rel="noopener noreferrer" href="https://colab.research.google.com/github/csheneka/labs-astro-teaching/blob/main/SDSS_BOSS_Expansion_Universum_Studenten.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="drawing" width="150"/> </a>
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
